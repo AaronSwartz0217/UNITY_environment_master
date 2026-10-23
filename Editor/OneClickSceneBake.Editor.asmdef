@@ -1,0 +1,6 @@
+{
+  "name": "OneClickSceneBake.Editor",
+  "references": ["EnvironmentMaster.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

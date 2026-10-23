@@ -1,0 +1,14 @@
+{
+  "name": "com.aaronswartz.environment-master",
+  "version": "2.0.0",
+  "displayName": "Environment Master / 环境大师",
+  "description": "Scene light baking, mipmap streaming, camera and occlusion culling tools, LOD helpers, and persistent performance telemetry for Unity 2022.3 LTS.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0"
+  },
+  "keywords": ["environment", "lightmapping", "optimization", "streaming", "culling", "profiling"],
+  "author": { "name": "AaronSwartz0217" }
+}
